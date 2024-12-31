@@ -37,3 +37,6 @@ Si tienes ideas para mejorar el juego, ¡no dudes en contribuir! 😄
 ## 💬 Contacto
 Para preguntas o comentarios, puedes escribirme a:
 📧 octaviomoya05@gmail.com
+
+![image](https://github.com/user-attachments/assets/789b3e1a-3b8b-4755-b5b7-e55bcaeda50e)
+
