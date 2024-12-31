@@ -1,6 +1,6 @@
 # 🎮 Tetris Game
 
-¡Bienvenido a **Tetris Game**! Este es un proyecto clásico de Tetris desarrollado en **C++**.  
+¡Bienvenido a **Tetris Game**! Este es un proyecto clásico de Tetris desarrollado en **C++** y Raylib.  
 Pon a prueba tus habilidades mientras encajas las piezas y acumulas puntos. 🧩✨
 
 ---
