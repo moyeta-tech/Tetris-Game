@@ -1,33 +1,39 @@
- HEAD
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
-Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
-It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
+# 🎮 Tetris Game
 
-# How to use this template
-1. Double click on the main.code-workspace file. This will open the template in VS Code.
-2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
-3. Press F5 on the keyboard to compile and run the program.
+¡Bienvenido a **Tetris Game**! Este es un proyecto clásico de Tetris desarrollado en **C++** y Raylib.  
+Pon a prueba tus habilidades mientras encajas las piezas y acumulas puntos. 🧩✨
 
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
+---
 
-# Video Tutorial
+## 🚀 Características
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+- 🕹️ Jugabilidad fluida y rápida.
+- 🎨 Interfaz minimalista y fácil de usar.
+- 💾 Ligero y eficiente.
+- 🔄 Compatible con diferentes resoluciones de pantalla.
+- 📈 Sistema de puntuación integrado.
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+---
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
-</p>
+## 🎯 Controles del juego
+ - ⬅️ Izquierda: Mover pieza a la izquierda
+ - ➡️ Derecha: Mover pieza a la derecha
+ - ⬇️ Abajo: Acelerar la caída de la pieza
+ - ⬆️: Rotar la pieza
 
-# Tetris-Game
- 9dddacd53da599b1bf3ab4456d09b3d2cbfdd745
+---
+
+## ⚡ Cómo ejecutar
+Al descargar la carpeta ZIP solamente tienes que ejecutar el archivo TetrisGame.exe y el juego comenzará!
+
+---
+
+## 📖 Créditos
+Este proyecto fue desarrollado por Octavio.
+Si tienes ideas para mejorar el juego, ¡no dudes en contribuir! 😄
+
+---
+
+## 💬 Contacto
+Para preguntas o comentarios, puedes escribirme a:
+📧 octaviomoya05@gmail.com
